@@ -26,7 +26,7 @@ Aplicación móvil de clima que muestra el pronóstico actual, por horas y próx
 
 ### **1. Clonar el repositorio**  
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/fer-gc05/WeatherApp
 cd WeatherApp
 ```
 
